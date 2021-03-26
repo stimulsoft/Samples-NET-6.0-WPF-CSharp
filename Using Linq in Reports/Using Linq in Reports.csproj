@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
-    <RootNamespace>Export_and_Print_Report_from_Code</RootNamespace>
+    <RootNamespace>Using_Linq_in_Reports</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Reports\TwoSimpleLists.mrt">
+    <None Update="Reports\Report.mrt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

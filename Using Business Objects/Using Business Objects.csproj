@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
-    <RootNamespace>Export_and_Print_Report_from_Code</RootNamespace>
+    <RootNamespace>Using_Business_Objects</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
@@ -12,7 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Reports\TwoSimpleLists.mrt">
+    <None Update="Reports\BusinessObjects_IEnumerable.mrt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Reports\BusinessObjects_ITypedList.mrt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

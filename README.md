@@ -10,6 +10,8 @@ This repository has some examples (Visual Studio Projects) each in different fol
 * Localization of the User Interface
 * Runtime Report Creation
 * Show Report in the Viewer
+* Using Business Objects
+* Using Linq in Reports
 * Using Report Variables
 
 They are all combined in a Visual Studio solution (.sln-file).
