@@ -52,7 +52,7 @@ namespace Using_Linq_in_Reports
         private void ButtonEdit_Click(object sender, RoutedEventArgs e)
         {
             var report = GetReport();
-            report.DesignWithWpf();
+            report.DesignV2WithWpf();
         }
 
         private void ButtonClose_Click(object sender, RoutedEventArgs e)
