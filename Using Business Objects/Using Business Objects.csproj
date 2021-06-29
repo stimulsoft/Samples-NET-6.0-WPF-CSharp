@@ -1,16 +1,13 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Using_Business_Objects</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
-
   <ItemGroup>
-    <PackageReference Include="Stimulsoft.Reports.Wpf" Version="2021.3.1" />
+    <PackageReference Include="Stimulsoft.Reports.Wpf" Version="2021.3.4" />
   </ItemGroup>
-
   <ItemGroup>
     <None Update="Reports\BusinessObjects_IEnumerable.mrt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -19,5 +16,4 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-
 </Project>
