@@ -13,7 +13,7 @@ This repository has some examples (Visual Studio Projects) each in different fol
 * Using Business Objects in the Report
 * Using Linq in Reports
 * Using Report Variables in Code
-* 
+
 They are all combined in a Visual Studio solution (.sln-file).
 
 The **Data** folder has sample of data files (NWIND.MDB, Demo.xml and Demo.xsd) required for building reports.
