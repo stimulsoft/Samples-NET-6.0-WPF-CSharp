@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Business Objects in t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Linq in Reports", "Using Linq in Reports\Using Linq in Reports.csproj", "{218129A0-9097-450B-AF95-CFA5A6DF1FD4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adding a Font to the Resource", "Adding a Font to the Resource\Adding a Font to the Resource.csproj", "{E248FA29-0BE8-46AA-8809-E79664F1D13E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using a Custom Data Adapter", "Using a Custom Data Adapter\Using a Custom Data Adapter.csproj", "{8D14C635-24D7-4D85-BB90-019416BE9252}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{218129A0-9097-450B-AF95-CFA5A6DF1FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{218129A0-9097-450B-AF95-CFA5A6DF1FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{218129A0-9097-450B-AF95-CFA5A6DF1FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E248FA29-0BE8-46AA-8809-E79664F1D13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E248FA29-0BE8-46AA-8809-E79664F1D13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E248FA29-0BE8-46AA-8809-E79664F1D13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E248FA29-0BE8-46AA-8809-E79664F1D13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D14C635-24D7-4D85-BB90-019416BE9252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D14C635-24D7-4D85-BB90-019416BE9252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D14C635-24D7-4D85-BB90-019416BE9252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D14C635-24D7-4D85-BB90-019416BE9252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
