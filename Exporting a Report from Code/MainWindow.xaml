@@ -9,8 +9,8 @@
         Title="Exporting a Report from Code" Height="300" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
     <Grid>
         <Button Content="Export Report" HorizontalAlignment="Center" Margin="0,106,0,0" Padding="10,5" VerticalAlignment="Top" Width="190" Click="ButtonExport_Click"/>
-        <Label Content="Format:" HorizontalAlignment="Left" Margin="155,139,0,0" Padding="0,3" VerticalAlignment="Top" Height="22"/>
-        <ComboBox Name="ComboBoxFormat" HorizontalAlignment="Left" Margin="215,139,0,0" VerticalAlignment="Top" Width="130" SelectedIndex="0">
+        <Label Content="Format:" HorizontalAlignment="Left" Margin="147,139,0,0" Padding="0,3" VerticalAlignment="Top" Height="22"/>
+        <ComboBox Name="ComboBoxFormat" HorizontalAlignment="Left" Margin="207,139,0,0" VerticalAlignment="Top" Width="130" SelectedIndex="0">
             <Label Content="PDF" />
             <Label Content="Word"/>
             <Label Content="Excel"/>
