@@ -9,6 +9,5 @@
     <Grid>
         <Button Content="Show Report" HorizontalAlignment="Left" Margin="97,50,0,0" Padding="10,5" VerticalAlignment="Top" Width="190" Click="ButtonShow_Click"/>
         <Button Content="Edit Report" HorizontalAlignment="Left" Margin="97,90,0,0" Padding="10,5" VerticalAlignment="Top" Click="ButtonEdit_Click" Width="190"/>
-        <Button Content="Close" HorizontalAlignment="Left" Margin="97,130,0,0" Padding="10,5" VerticalAlignment="Top" Width="190" Click="ButtonClose_Click"/>
     </Grid>
 </Window>
